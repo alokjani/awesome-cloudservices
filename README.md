@@ -1,6 +1,6 @@
-# Cloud Services Feature Matrix 
+# Awesome Cloud Services
 
-A curated list of Cloud Services feature matrix for providers
+A (hopefully) curated list of cloud service offerings from Cloud Service Providers and other OSS projects.
 
 |          Service       |   Amazon AWS           | OpenStack Project      |
 | ---------------------- | ---------------------- | ---------------------- |
