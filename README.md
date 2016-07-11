@@ -8,10 +8,10 @@ A (hopefully) curated list of cloud service offerings from Cloud Service Provide
 | Virtual Machines       | EC2                    | Nova                   |
 | Image Storage          | S3                     | Glance                 |
 | Object Storage         | S3                     | Swift / Ceph*          |
-| Block Storage          | EC2                    | Cinder                 |
+| Block Storage          | EBS                    | Cinder / Ceph*         |
 | Network Services       | VPC                    | Neutron                |
 | Relational Databases   | RDS                    | Trove                  |
-| Resource Templates     | CloudFormation         | Heat                   |
+| Resource Templates     | Cloud Formation        | Heat                   |
 | Hadoop + Big Data      | EMR                    | Sahara / Ambari*       |
 
 [*] non OpenStack component that is integrated later
