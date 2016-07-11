@@ -15,7 +15,7 @@ A (hopefully) curated list of cloud service offerings from Cloud Service Provide
 | Hadoop + Big Data      | EMR                    | Sahara / Ambari*       |
 | DNS                    | Route 53               | Designate              |
 | Monitoring             | CloudWatch             | Ceilometer             |
-| Workflow Service       | SWF                    | -                      |
-| Queue Services         | SQS                    | -                      |
+| Workflow Service       | SWF                    | Mistral                |
+| Queue Services         | SQS                    | Zaqar                  |
 
 [*] non OpenStack component that is integrated later
