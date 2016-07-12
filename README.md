@@ -11,6 +11,7 @@ A (hopefully) curated list of cloud service offerings from Cloud Service Provide
 | Network Services       | VPC                    | Neutron                |
 | Load Balancer          | ELB                    | LBaaS  / Octavia       |
 | Relational Databases   | RDS                    | Trove                  |
+| NoSQL Databases        | SimpleDB               | -                      |
 | Resource Templates     | CloudFormation         | Heat                   |
 | Hadoop + Big Data      | EMR                    | Sahara / Ambari*       |
 | DNS                    | Route 53               | Designate              |
